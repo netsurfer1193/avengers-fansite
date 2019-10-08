@@ -1,7 +1,7 @@
 h1 {
     color: #ffffff;
     font-size: 40px;
-    font-family: 'Mansalva', cursive;
+    font-family: 'times new roman', cursive;
     text-align: center;
     }
 
@@ -9,6 +9,10 @@ h1 {
     color: red;
 }
 
+.blue{
+    color: blueviolet:
+
+}
 #container {
     margin: 0 auto;
     background-color: #4b0b0b;
@@ -19,7 +23,7 @@ h1 {
 }
 
 header {
-    background-color: green;
+    background-color: red;
     margin-top: 10px;
 }
 
@@ -49,7 +53,7 @@ ul {
   }
 
 #content-left {
-    background-color: blue;
+    background-color: red (141, 141, 156);
     margin: 10px;
     float: left;
     width: 440px;
@@ -74,3 +78,9 @@ footer {
 }
 
 
+#marys-main{
+    background-color: green;
+    font-family: 'mansalva', cursive;
+    border: 1px solid white;
+    
+}
